@@ -6,9 +6,9 @@ public class Task3 {
 
     public static void main(String[] args) {
 
-        String sent ="Is it saturday? Is it raining? Do we have a Java Class today?";
+        String sentence ="Is it saturday? Is it raining? Do we have a Java Class today?";
 
-        String[] str =sent.split("[?]");
+        String[] str =sentence.split("[?]");
         System.out.println(str.length);
         System.out.println(str[2].trim());
         System.out.println(str[0].trim());

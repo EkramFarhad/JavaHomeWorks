@@ -11,6 +11,7 @@ public class Task4 {
             System.out.print(rev.charAt(i));
 
         }
+        System.out.println("-----------------------");
 
     }
 }
