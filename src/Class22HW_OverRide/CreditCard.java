@@ -61,3 +61,7 @@ class Test {
 }
 
 
+ class neop{
+    String pb;
+ }
+
